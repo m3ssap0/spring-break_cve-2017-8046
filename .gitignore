@@ -57,3 +57,4 @@ target
 *.war
 *.ear
 junit*.properties
+/bin/
